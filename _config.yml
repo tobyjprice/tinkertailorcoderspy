@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
 title: Toby Price
 description: Just trying to keep track of what i do!
-source: /docs/
+relative_links:
+  enabled: true
+  collections: true
