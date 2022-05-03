@@ -20,7 +20,7 @@
 
 title: Toby Price
 description: >- # this means to ignore newlines until "baseurl:"
-  Just a place for me to keep track of what I've been doing!.
+  Just a place for me to keep track of what I've been doing!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  tobyjprice
