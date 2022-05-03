@@ -1,3 +1,8 @@
+layout: post
+title: "POST TITLE"
+date: YYYY-MM-DD hh:mm:ss -0000
+categories: Swift
+
 # Wrapping UIKit views for SwiftUI
 
 SwiftUI includes the ability to wrap existing UIKit views such as WKWebView into SwiftUI by using UIViewRepresentable.  As most apps were built using UIKit before SwiftUI came around, this backwards compatibility can be great for filling in gaps in behaviour while Apple works to add all of the necessary view kinds to SwiftUI.  One such view type is the WKWebView, SwiftUI does not currently have a way of embedding a WebKit view.  Wrapping the UIKit solution is an option that works well.
